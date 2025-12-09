@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_JuiceShop_2_name": {
+            "value": null
+        },
+        "disks_JuiceShop_2_OsDisk_1_6fba5b48124b4e9f9bb4a31247731350_externalid": {
+            "value": null
+        },
+        "networkInterfaces_juiceshop_2451_externalid": {
+            "value": null
+        }
+    }
+}
