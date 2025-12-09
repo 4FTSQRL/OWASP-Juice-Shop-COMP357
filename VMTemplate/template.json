@@ -24,7 +24,7 @@
             "location": "eastus",
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_B1s"
+                    "vmSize": "Standard_B1ms"
                 },
                 "additionalCapabilities": {
                     "hibernationEnabled": false
